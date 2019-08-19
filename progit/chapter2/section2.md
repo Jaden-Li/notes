@@ -48,7 +48,7 @@ $ git add <文件名>
 
 ## `.gitignore`文件
 
-github上有完整的[`.gitignore`文件](https://github.com/github/gitignore)。
+github上有完整的[`.gitignore`文件](https://github.com/github/gitignore)，如果误上传了本应该ignore的文件，[这样做](https://stackoverflow.com/questions/7527982/applying-gitignore-to-committed-files)
 
 # Commit
 
