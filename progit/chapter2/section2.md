@@ -64,6 +64,8 @@ $ git commit -m 'msg'
 $ git commit -a -m 'msg'
 ```
 
+当你忘记使用`-m`时，会进入vim，[如何处理请看此链接](https://stackoverflow.com/questions/9171356/how-do-i-exit-from-the-text-window-in-git)
+
 ## 删除文件
 
 ### 第一种情况：保留文件夹
