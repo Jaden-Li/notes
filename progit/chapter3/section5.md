@@ -2,11 +2,13 @@
 
 ## 基础知识
 
-![Server and local repositories after cloning.](https://git-scm.com/book/en/v2/images/remote-branches-1.png)
+remote references和remote-tracking branches都储存了远程分支的状态，但他们是两个不同的概念，区别如下：
 
-远程的branch和本地的区别：远程有/。即使远程的master发生了改变，只要你不连接远程，它在本地还是不变。
+- 被储存的位置不同：前者存在**远程**仓库，后者存在**本地**仓库
+- 储存的分支状态的时间点不同：前者**实时**更新，后者储存**最近一次**连接远程仓库时远程分支的状态
+- 后者以`<remote>/<branch>`的形式显示，`origin`是`<remote>`的默认名
 
-[更新远程master](chapter2/section5.html/fetching-and-pulling-from-your-remotes)
+[使用fetch来更新远程分支状态](chapter2/section5.html/fetching-and-pulling-from-your-remotes)
 
 ## Pushing
 

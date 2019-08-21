@@ -2,19 +2,19 @@
 
 ## 基础知识
 
-Git储存数据的方式：snapshots。当你make a commit时，会有a commit object，储存的信息如下面两张图：
+分支，指向某个commit。在了解分支之前，先了解commit对象。该对象储存了两类信息，当前commit的数据，即sanpshot和父分支。
+
+1. **Snapshot**
+
+Snapshot储存了文件结构（tree），和文件的版本信息（blob）
 
 ![image-20190819162259135](assets/section1/image-20190819162259135.png)
 
-A commit object除了储存author，commit msg这些常规信息，还储存了当前commit下的snapshot。一个snapshot包含一个 tree，储存文件名和blobs的映射信息，blobs指向committed files的版本信息；
+2. **父分支**
+
+指向前一个或多个commit对象。若是当前对象是首次commit，则没有父分支。
 
 ![image-20190819162129816](assets/section1/image-20190819162129816.png)
-
-除此之外，A commit object还储存了parent的信息，指向这个commit之前一个或多个commit：
-
-- 0个？initial commit
-- 1个？正常的commit
-- 多个？存在merge
 
 ## Branch的概念
 
