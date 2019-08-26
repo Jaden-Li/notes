@@ -57,4 +57,5 @@
         * [例题讲解](part2/chapter5/section5.md)
     * [人民时评](part2/chapter6/README.md)
         * [1](part2/chapter6/section1.md)
+        * [2](part2/chapter6/section2.md)
 
