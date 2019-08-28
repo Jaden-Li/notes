@@ -44,14 +44,56 @@ bamboo/bamboos（竹子）
 
 memento/memento(e)s（纪念品）
 
+📓
+
+中学的时候，老师这样教，个人觉得更好记忆，
+
+1.元音+o
+
+- +s
+
+2.辅音+o
+
+- 有生命，+es
+- 无生命，+s
+
 ## 有关以-f或-fe结尾的名词
 
 1．一般变f, fe为v，再加-es的词有下面12个：
 
 calf/calves（小牛）
 
+half/halves（一半）
+
+knife/knives（小刀）
+
+leaf/leaves（树叶）
+
+life/lives（生命）
+
+loaf/loaves（一条，一只）
+
+self/selves（自身）
+
+sheaf/sheaves（一捆，一束）
+
+shelf/shelves（架子）
+
+thief/thieves（贼）
+
+wife/wives（妻子）
+
+wolf/wolves（狼）
+
 2．一般直接加-s的名词有：
 
 3．少数名词后加-s或变f, fe为v加-es均可：
 
 dwarf/dwarfs/dwarves（矮人）
+
+📓 
+
+以-f或者-fe结尾的词分为两类
+
+- 去f\fe，+ves的，有12个，需要强行记忆
+- 剩下的，直接+s
