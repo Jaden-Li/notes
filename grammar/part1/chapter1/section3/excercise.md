@@ -53,5 +53,38 @@
 8．Whether they get a Golden Palm or not, Asian ________ (director) are the clear ________ (winner) of this year's Cannes Film Festival, serving up a feast of ________ (film) that combine ________ (originality) and a particular brand of ________ (sensitivity) that is all their own.
 9．The organization is like a tree full of ________ (monkey), all on different ________ (limb) at different ________ (level), some climbing up. The ________ (monkey) on top look down and see a tree full of smiling ________ (face). The ________ (monkey) on the bottom look up and see nothing but ________ (asshole).
 
+Tariffs，普通名词，表示进出口的一种关税，tariffs，表示charge到各种商品上的关税
 
+Quotas, 普通名词，表示额度，quotas，表示进口的各种额度
 
+Licenses，普通名词，营业执照，可数，
+
+ businesses，普通名词，表公司
+
+**telecommunications**
+
+companies
+
+directors
+
+winners
+
+films
+
+originality
+
+sensitivity
+
+monkeys
+
+limbs
+
+levels
+
+monkeys
+
+faces
+
+monkeys
+
+assholes

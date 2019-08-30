@@ -20,7 +20,7 @@
   - [x] [1.3.7　单复数同形的名词（零复数名词）](part1/chapter1/section3/subsection7.md)
   - [x] [1.3.8　有新词义的复数名词](part1/chapter1/section3/subsection8.md)
 - [ ] [1.4　名词的格（一）：'s所有格的构成及逻辑语义关系](part1/chapter1/section4/README.md)
-  - [ ] [1.4.1　's所有格的构成](part1/chapter1/section4/subsection1.md)
+  - [x] [1.4.1　's所有格的构成](part1/chapter1/section4/subsection1.md)
   - [ ] [1.4.2　's所有格的逻辑语义关系](part1/chapter1/section4/subsection2.md)
   - [ ] [1.4.3　名词所有格修饰的名词被省去](part1/chapter1/section4/subsection3.md)
 - [ ] [1.5　名词的格（二）：of属格的构成及逻辑语义关系](part1/chapter1/section5/README.md)
